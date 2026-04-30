@@ -9,9 +9,16 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "ace-builds": "^1.43.6",
     "next": "16.2.4",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "recharts": "^3.8.1",
+    "survey-core": "2.5.22",
+    "survey-creator-react": "^2.5.21",
+    "survey-pdf": "^2.5.21",
+    "survey-react-ui": "^2.5.22",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

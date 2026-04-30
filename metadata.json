@@ -1,0 +1,6 @@
+{
+  "name": "SurveyJS Enterprise Migration",
+  "description": "A production-grade SurveyJS integration with Spring Boot (Java) backend and PostgreSQL support, featuring a polished form builder and library interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
